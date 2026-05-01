@@ -24,15 +24,151 @@ logging.disable(logging.CRITICAL)
 # ==================== CONFIG ====================
 API_ID = 27896193
 API_HASH = "38a5463cb8bf980d4519fba0ced298c2"
-MAIN_OWNER = 6105009337
-GLOBAL_SUDO_USERS = [1735609829]
+MAIN_OWNER = 5286579067
+GLOBAL_SUDO_USERS = [1735609829,6105009337]
 AUTO_JOIN_LINK = "https://t.me/TheVillainActive"
 
 # ==================== SESSIONS ====================
 SESSIONS = [
     {
-        "session_string": "1BJWap1sBu7w4c6UCn9rgKvmZAfSwd5Ih0IVLY10_vCXQDzzCcNckp7awcaaG9VYrUxZM9CGvhGS6oGFebWYEaWvDCGxq_vULfBjAtSED7w_RDBX-nPt11HHXn49fYEAkflYrTx025wZQ1eVFeEQ-I2HicWP7CuQCNAbfONzzeGw8fhfb5epXkLRWyyWxUfQanExN_gb7NM4y1hLLrwrropRZYyDj2toZGs-Qk834rezNS4aFBjVVaDiw3sPYCJ39gC12pBugsLEH3EtJ3BaMXEuJaNQlBF-U-3JHIs_sMaTLMKEYcpGwUqwPlnjhR6WT4-e_A3uY3_LOkzHVv139_kchPB0i6YI=",
+        "session_string": "1BVtsOIUBu7YVptEn5-cBuiSwqHmn7gq0yEEqNFaTM4VFu-aSIxO-VGlwKtc-o1cG21FLTx_vU0QCjfAFZavk6u76Q_BJ3D0Q-Tov9FVQyMmHk_pIwHcwFZa7b7O0-OIGGBA1b_VXjwPjk8DB3Wl7Uq3SqSOfWxV8S_GYnd9e7O4BY8c3wvfShe7uWPdiZOYIxJWlxb40rO8q29UfSpmRNQkvBrGHb1Gc9L3Zb7JT9zFomNLFLbijUVcWW9pcc25Fv2Y2jXUyK4qJNkdtpSfjt6u4AZj_JB8-JKzQk5qpnmMgVA64jgP9-jcCwRscWlVah3S0GmSL7CbeVBE6mZoavsChLZvMWoc=",
+        "owner": 1779115399,
+    },
+    {
+        "session_string": "1BVtsOIUBu7z1k08kb-25KTAT2IAKaIqpxMeQzLJypjwu_RXtLbTgAvNqBUVS6dFrPLErxzfEaC3dhVWn9zJ1KiSla-6l4bRkkgCTq8FRWsrsymdmkUOIzECjtpGQD0NHxuoRRZMH0cPB_3S7RoCP5EieE9pbfaar2DTBqwC7RwkFbdhG4mlAR7Q_RFoHJcMvQND5vCVz11QgAXzX0TjVmLkLgYziUQSHO0WSWWhH54lYMbBM4eHczgOXu9-UXBDEo_mlxEZthJqEfw5kwDcba11sGqfyXCLEjwhsG-fb2WO3_w6lNmQ5XSE1ufhwIfgBYg3dk9O7U5P2cFcCgEcDPIxENSsDNWA=",
+        "owner": 1217902673,
+    },
+    {
+        "session_string": "1BVtsOIUBu8ZKUe9n_mXGUXypK7S6-LaZoma9CFsykUbvfbx2nslWUFRMTIJcf9xbmXIwbpxmD-vohibSiNERIgh49Pio52INBpA2TLiyJ7IE88V9FlRLom2S9VAcGgcfLykEmmBwf7Cq5nWpJPLDGvBQa3_I6UIW0Q81UfL1k3bQn1F2jeNwk3cmjQrntck1jjdZQurCvPVMBSu-q4bKt-yNxdGygwaOTsEavZ8HvqBVlrtq2Nsiwylk-FhRYvw4kOpO8Cchh_xuuH5W9LUl6pg7TazepElC57eo2YzYW1KzcZsucBVJFc7yND0dTRHJJY9LSRJjzYIxu8E0kwTzPRBy09zxCQs=",
+        "owner": 1888914657,
+    },
+    {
+        "session_string": "1BVtsOIUBuzOB9BS8nVIREgZabrNsuo3StRZSyHT_rRo-itQnzIrRQJQvOJBbXEew7VLJOhiWEn2kRcwD-LkqrCyFLu_pKL177-IlVwc6TL-XH8JEmp_8d-vg11WnORziuK2_EwQ0mPyemwjTjMC4_eXLTpFGhiPaghGcC6tmio9dQABKpJCRbEPtooFjAM8LUs5_6ptkPKF-1R8iJ4mV4Z-CL3_Uh8s8vCPO4QawVOarRkm7FKWgRVOelLaGmjkRREv2hbBH1y_bm4LoG6SlCy5hN1XBGRE6Mv2JwwlRnuaYN_BP5W0Fdc2FqNp1jh9yR3Nt-AhF6J05yNMQItppq7MRqiSh0cw=",
         "owner": 6488873224,
+    },
+    {
+        "session_string": "1BVtsOIUBu4DlKDpiXYw_NQGVcG-L3VV-Td1oZEEfPaBgneJxjjN1USeZpst34J88BzAITOqjaKhR0r_kaFwK6zlXTTC8rUb3Ars68CYRWV43gj8KrOIWZsQd4ptiAmbbevOGnDBh1dTcDtN7EMa_nelYjrK9bcmp3wXeG6zgpqALTSkTJGeSPBPenxC14F_dCy4uRnt0CS99Zx93-OHgp91y_NbgBJtaq6Z0kRZSgmam0apDZ5SPZ43jZW9M8h6pSKSggf-YwSVwc8j8atAYlkc4T1Dt4z2yfg9B1CsiXVIPZpAxIDGBKwxQIIGrQKBw6k9Q9GxGyhUJCBo-b1vlmZW3NJIfNng=",
+        "owner": 6052936166,
+    },
+    {
+        "session_string": "1BVtsOIUBu072uyLRAP5TQ55RbGzUxTv8_hi7Co5RhloPQ5giqGp9NmKYrw70bX48mEF4BXX3rycEuj1P3s1htjEmoecKL70GoALFETE4jKoB7x48PSu5P_Q7amY8psuRC_Cid8NlFNqWCvAfXvSDgQ1Lxt-k5SeJtxj9dzJqn010AbU1D0ndZI2RAyHnZixC8XAxLfbW7FSkTOC7kF5N4oIZQJqtEzFmNsB7CclrvOJT5Jf3pNrc5ZCoP2WbKJkJf1qWYIBUJ3xJrfgqU995Pr5-cOX-szVH7WxCjgLWLvZ1L3WB923b4OoShadNLFbMvI5Zz_7ZvJgXEOLEX3oPSyQJX0c3V0k=",
+        "owner": 7150563153,
+    },
+    {
+        "session_string": "1BVtsOIUBu079b9bTwoVYdohKv942XwcJhs53tESFIqnqsOb0_Pk8zmrHLwKbt_Kd3OoPCPpBoaPzKRcTgYTuiPdRgp1OZWc2cejmVEHB80NZ5MCgu_gjPkpzuyaJYEVITx11zqqCY5JZ0HZIVNzBWGR0K473DRBMHmb05mN5WmEy9Hk7ir6TitF21Wgbs-otjN578lJPME2ZsLC_ey53LkO7bCGTirSylx8QO0Rl4a92kUhMBkZe_KdG1KUoTJPoAkjZlgOtg9m7ivFJnWqkvedcNgn9ql8Vgfcv1NWkmJHSlzfiwCsXeenHKZatXG5kTphrfEPOW2lCka9z6OYd4HYidxJJSk8=",
+        "owner": 7090580663,
+    },
+    {
+        "session_string": "1BVtsOIUBu5TKFP5P1pU766SGgx-QvDNr3HzhIIapNgiKcjoa4ReISK729L8zV71farpbORPKiMrhF28hBK6xgYgE7YCurgGaZshtkaWNKwNrqvb2xWpZUdWNqK5lRWmNsH9OU3b9ebbFSi3_L-tFmc9CBJrNEP1sxGsAfOxiIrwJwf17VqOMvLaVMPzbwcZuEdcLc5zJVZUeYS1IFqh0EBwImvo2mJHmXIU41qBfvAiFHbc9JDZ9pHhdc2IDPj8qDugwlA1rxaRCoodXeJZ7A_jPpn7SpFu1dG7atwQiiLVn3bJjO9ylCrfKBVtuChWaQagfn9jqgmIvtg3vUCzoVV-vg32rXo4=",
+        "owner": 6268855785,
+    },
+    {
+        "session_string": "1BVtsOIUBuxgauLGSevZ4EY1l77w-scmSpRwh7tQ-SCD5Z963i9o2t8LcVH_SB3DG2q4Qfgc4bB8GIBT-QbpOuWLxGDxr1OhXXGJ_lVo__ulEsrzsmpxBbyCbcciT_odJVswEDZi7sagdmatlT0gwPDTGuiRPgJkX1jNIsVffV7muJfz4NoG7I81i5T0xiJisqIpxK8VYpOmULyiBvBzDY-m4Qn588WLJG-5hRgoTKXTuPGn-N8zfj01EMl06yR62Au99bTUCEGQEl0a8vM1ibUVGa_SDjMVyAAkehaLD0QdXeHyhY1i1AEr47z4OyLgNEmoDdPchsOCQueLroRCPRNxfHKR51a0=",
+        "owner": 1347612918,
+    },
+    {
+        "session_string": "1BVtsOIUBuynwssIa5AATIoDVBPDDOcSewYvEOMaVMTkYRDBEv2sR7o5TCdyeK8MbDZoKOV0yEJxv_2L94wTE9y97wo4NUwZ-UWGe1K0_6R-Y02-CACZV0L-BGyo_556jLjiTkrDwWQgQwnYLNtBNnfIeql5PHJBFE90ftHrCtP8hFOC71mqg1OjBiy5pH2BAC-K2M_65Vl9WxLaur_BovcjTn0GkMBUsl5LJxRLad4OA9uag2j4GhDlHnG1UEBXwE1BiBgmWbDgJCVWsYKFhBU8fypxZqVRLcwQpOke_RKXiQ_8N8bOoSjucAAvTGy6CC0aZD-UxTNU8wFAGNax4uiDkSrbqJL4=",
+        "owner": 7164221424,
+    },
+    {
+        "session_string": "1BVtsOIUBuzRIiKlakUwmoTQX2meSyG213x9m-CW31jzw-v5tjXd2KbN6tUYYOVlzcYCBnqtD5_1V7NZhn3_HD-IpgD_RbyszupTziS7w4dmUuDHXTkrEnaPHVN0uqzSqd74GxXaNAXMwpOS-Mb1OX4iVm5Q6NKOfFzYTMeMi99AuzTggOAgV10yUzZkJzMhHyHVYxFXS0mv8wYBc4JfaAfAYm1IIFjk3sNl3MnlN0IH3j1wkufJWsNpLpP_sXBCq2Py3yiyPyJ8vsSgwTgEGA--OWTW-QkUAou_c1dCR0MR-B6EyGHtk4SR0cK6s2UBEQl998yQ7ywh75vzTepTQ4XJ8xjN18ic=",
+        "owner": 5445485721,
+    },
+    {
+        "session_string": "1BVtsOIUBuzT_HGfvPVsLwteMFIue0xqM4s_6ZggDBDM0Zup8KdXImTeli_ipuBn_KGtUIp67Kwx1ja8b_9ccwi-OTshiP8t6DBh4JkIlaw1tXSXm0K2uHbk7OLXqsGe7nna8RhnDYoCnCLnDXeO9d7GBRtUVikIOlx-GOOzfaQ10Q_PsUmsIcVIZ9j5-X_pvl6JdhTe5bZk-Y_DttWQMxXJueN4_m-bh5crmO2odAc5s2Ix0h6PLMRKB37FKMDwMpwmsHAHnzEBtPceUfDFxfsbRWlMqsDH1NJ8midCFRkzTDf6-ej9bAUyFQHMAmCQ4F-yQey2v_i65NYFtv0BLVhj98TWi2ZY=",
+        "owner": 5662890289,
+    },
+    {
+        "session_string": "1BVtsOIUBuxzP2r3PJlWl24rr6kZyjacdTXL1qNeFH4khmGdub2a68ajRWSvBHit605Sfl0HFV1nxjTYygZV1-PRcVIvOzSHLiez7-Y-okYmvjMJ1MfwGPLwkqqL2Lsbe-l7tCmVNIrLDbGESKPtotLr9NBEU41xyrBG6-BsRFlbD99OCDdRUZ2MHxBtbskJQq9n4QzqRW7QXXO0mKDjfAGVYoF0D0XRXOtaV5bo2rN2t3SxOwFv_vZjQfbdEMgiK2Uy7XmBo0avWtqPP9A2QDueIU6-cBxczvkDismLrETsI1agVDvBEa2OOTLwtT0vMVK97qGyK3fuHxhY8kkYGWL0UpwHVaeM=",
+        "owner": 5464178617,
+    },
+    {
+        "session_string": "1BVtsOIUBu8Jkwc0-yunhYDlTeKBkxrcM9vnAs-4lRhg4OFpOkxzF5mkjuRlGu5g84bUkSmHe3kKaf_-b2No3M5VrP1QGBiVOOQPjg_taNC-Xrm5FQjw-qmwCdJv3QgoHayUv9bXJEGmSu0QjLuxlEcA9zjfoJghWQWoHLL0lLxktvED-PrKzTLQauaB63RP3rnzg-Q1ORES8F2CdmlHP796-9dTBLaQhaqYeq3fB3fg7R5eyixNzg5S27CIGeDHNIMEyjiw1HJZkefxwSbfFE0hNLCeXktPwbi5Vfwm-kf1VNt-Nm9AksEIDkMNhrsO9DqCnNTDh7cU5obFkd0nxPykjckKfRYc=",
+        "owner": 7005373305,
+    },
+    {
+        "session_string": "1BVtsOIUBuy14ZBQN6rpeY7LWptqKsjFeGs6SW36nXDoN9s1q6VcXf2FjgNmeHesR1ehzRkHQDYhrrnljJbm6qU_ruNPRBmX7di_hNhryDKF7Br9y1Q-upfpXsawYJzYj8vfKHanThmx4TniP2ddSzE1jOD4_O8Qu8m9MHq6OoQjO6Q18CGbCdpHSApWT0a5yilduf3-JnayBeqkOKIuTHlvnTfN9jVwksZmC0O1_VZJEiMp-J80N1C_3RmzPguw_35oETbVVTagkJFPEzXAnCxM_bVM-R6Zh_fo4a9GhtDL6rW7Qi2wdNDW2aylwAAXnYHYoKeFgO50-ulZs_Z-JcmWs6GKg_2Q=",
+        "owner": 6598190977,
+    },
+    {
+        "session_string": "1BVtsOIUBu4fxZrWOPZWjNNs7wyhS0HzJslg2-P51mmPNHsNDWJReK_eeSBec5z8UdZl4QkDycBm-XjUPFcEizwXkjb4_uLl0PDJT61k9MeTpQpG387wNPLz6KJrl7Julj7Ij0akqDaBOLDU355eKXrxhkPfKlqCxKS4xE2e0WOTkEiuPl76uvIodIm0scj5cv36ByIujykQ8fG4UPfv7THDSECcLq-hABknAfasafu0sJqWKW0ZW5n4UgFTYRlI2Fgh1L-W1MICPlq_Qz42IiQjbTZ4HJ5aTN2DevCiJuSNF-7sZX31bG2gbHt4xaxh02JLjDQ4LoMmhzTmFObSoCztr29SIJw8=",
+        "owner": 8543997097,
+    },
+    {
+        "session_string": "1BVtsOIUBuxLov06o63e5yPv0Rz3-LS5uoZg3EYIZmIBQRMKvdpPQSankhWCgD8TdL6YhWe8JQOiCFEaERqnF54j1KhVqJ5FUyWP8nu2qK2Ih__VmRIdJLKd7EFUcBnGNPfw2v4xiZRbUMOzTZ9OAJa2Dj_8fFGh2o3v0B6Hb1jS-HlqeW7BbWBi-uS89s9LyX8_y1NivaNd5yialfW2Il4BZv_XxbPbGJ8anukLp4Vvt1g1bvHobz53OM-q7qj-qdDttUBtL9IwTNJA5s_-QE9gOMUqX2pX5Tn96wG2396MbsiTpGIE6W_RM6E5r_gbk7LQRmFbizd5UR3IrvDLbIKU5M4eAWz0=",
+        "owner": 6217836021,
+    },
+    {
+        "session_string": "1BVtsOIUBu1pgBg8BJGAOQEDnha3MwNrPYbE0buT1Cp3q2gmmmFixGKa4MzajrDt7yqwtBZxi5hQmK3fEqumJ1dsP83SIIXCyp3cYFHtaKX_qF8bBOznETKRnNVuCtp_GyTmFp_jMkH7VlWwIPB4F0IqhCK2FeKAYpqokFtmKJRRbN2YGggugD2kopB2PySxlIb8ZgZFSSRLrwXS9ypiBH8xoMbF6ICaojwcxXqMhWdIpNL6ujjrk81YJgCR8EqCcSzxkQAOwxffkX6GR3D3SDqSjzP-XAKtdsxlyCfOmazmj908QzD58Gna0sAFWpb-IYID5ledmnOu6lzabTNfQ4mcQNZqnkpY=",
+        "owner": 8666280179,
+    },
+    {
+        "session_string": "1BVtsOIUBu1AKf1Xol9NOea5b6W6zpKPLydknRPswFy18L2U5gN7PqerPOEzY_XzcGO2FoWnu2Rmiesfv2D1HjE6I5FWwmZvLASW-ytdJGXcU_wN_4d9itE9mTW7b7JVEtrtCoA5GNUuQFOXdObs6EMCT7kERpgk2wv3cZrIATJ0VsobxEIFnQBlbPFjklBjnzrc1UtmO-fKduqpIoqWnPvXrOc04Mgq82_c8_7fSVNvWL_78xiRczccKiMsRp-hCDIf0nigf7maxLYTWEvfBEqxg7aWtETGCw0qtYQWNrZ9cT9Bmx8qOrRnGprKxtCJgGe9QTeKUpznT825HVFHCS6dGrxw51Nk=",
+        "owner": 8685419182,
+    },
+    {
+        "session_string": "1BVtsOKwBux3JBDuyCYfURDP-OVNl3HGlqlr0NRLQBTWhBJ4zqMCiu0yKi1dn3pRmhv4YqvqCEAci4tPpvLYwGvBe5CNQ3obIIopTyovXy-oIoU3QRmimOi8tQwn1QU4mlZY-gibKtD9L_Zlo39qCu5hBoKf4LNbqFy_lmI0g3Tq0NX9sYf-NHNyLlCAkIBPgtMP14HX2a0HvLwFxucy1QjMg0HrcGcrk-ZmQejcwInZIdB9aPcDaRsXqg4Wufxtv76c4DfQEiL2Gtk980FcIVHlmP4hd-aWQQssAaQBmA6RP3phEIKtNz1bOvE0bJAPx9zAd5BS3HZQPpbPU3W0rOXhwSxC8l5U=",
+        "owner": 1988838987,
+    },
+    {
+        "session_string": "1BVtsOKwBuwoSe50UgtFO5UaWdJMc-ZyxBVTbx9gaj7JiLmdH8vYQw9-4yzYeQAUKM3Qlz9tqVzIdLxoaXgjrGbF4a1SIJC9aokAeg1d-Nc2nHRD275qUyQZVx8u-jGwpVdxhpxC0OAksn2D2hwWVdoUsFgp6j7VfKkTWySwmDAIZ8iKoJcjmYNLAFVJFhlQTFXEi7jjdqIKnteeE3VzTFPbQaij1UAkIJzQA7sP-tbFniXA85RjeNk9ySjCIUBx2r2YPWl3b01d1l8MkHJN1kHmL5R4qGIlG57bop40tZ7AlTAFTMEnj7q1LJf1BzXreqFVisG4iw4wptcxEWTOpLa7NScw9Vzk=",
+        "owner": 8543997097,
+    },
+    {
+        "session_string": "1BVtsOKwBu7YyxS3L59iDEEVTm1M_Fq6gZ2yvHtOz18y6Hz7UqaZBI8sIjTi6SIXxe0l0qUufqL7Z0ZHfQo6nP5rZawSTUCsBJhgYCT0AnSvTlOR2COWDSZS_8_IV21Mat6sd0Ul77EfhM80iq9JXrrMUE1GYAEY3YPWxM2ezRNyVL8bY4eTX64wS1eZ6ufJKS8OL1fJN-1BLf1esF7oTLHxhl0evyNcmn3Vz0PH19zPdGOECWkaJIw8Yk7-m-bdCgE6RPN7isqt0t2WLmF-lT3i1Zf0_hBQ41zHIxIjHyy_Tv-R79dw8udPBias9sf4b5gJhASUiZ2cz8-sJi3r-V1m6AaWLK_s=",
+        "owner": 7639474127,
+    },
+    {
+        "session_string": "1BVtsOKwBu4-GYDW9KEXy6AjDmT2QyeWbLCr00S4mPo–PVp1mYsPd2V3oC5_n-Vh5WWKqchTA6607Kj7vwYE3ItwQMbrZa_bPBz62jt_c_NlMdZaUFvmSBYgQ9pKsJG13tF4-JrNssMQf61-A9w8ZO1nwDKYc_YJbdDK1QibpA4K0nAk5KMl9-Hy1kQjNvLznRsBhep6EzImo7-GOIb9SRcGOOkg4IPrPV809b1lPHf6nbr5JoQRCSeq5yD0NwA-TUHBjJiKy50VtE894F_0_EhMiaREpsoz-p1X5KDNiwamaYv187HCsStuGDVxGwbjwFZX91D7bAJWt123-IXqfrs_eohjtt0=",
+        "owner": 8051801339,
+    },
+    {
+        "session_string": "1BVtsOKwBu50lrs61e8QZ50HuqfxriseZwOaSiTuv6mf1OzZG0rn7qIsZHLTi5o5OeMCHjNTzqAaWCVMQtnSz_L5q6E1W92WsNZf9CLbtcpS-8pdmgkIaK1yZP1K3RB2t1A1Ri_w6kV2OHgNvf8LfCXipSzEt6C_iaZ_W8ubPNogbGeqKBud6tNnr9eutK7KhKD0-wz6Z8_6p9Akm_WFANiiKsN3Or73BUyZ6xXaFSpYjQYlPrjLxwB0nmmV6WNODBC9NrG2FDuDeDYNuvRU2k4_ODD4y8OWijglQBnzAvjsAGD77Hfp-AMvNpcUWiM7CbWiEgLMyApD2tLRJcrEAJFjkk6lulcw=",
+        "owner": 8209987722,
+    },
+    {
+        "session_string": "1BVtsOKwBu3crZcrWXNrZTTobSJ5wjihPaH2EiMIJXLHonyoM1fpEC08gR8YYF9wqjPewm4vHWRjLSS8CzV8LkbVuQtSwfESbYZbtfFppDEUk9RFbnl3xKOxpXCn6BlFTu8roNwA-WGpxBNuRwE8kLPQxcfOWKmVF235193sAX0QlEnKmYFLG5yVAMZyUgiBUPKp0uCs8Q4N2ObZ9cL_4YqPwnfz7roYz4juUME4CXpr37kHrcWL1GyElDHw_yM3Ezef-qfKFopGMnOb6qi5pbx8qbP_PMeoQZ8Bc535PKveIWsJqp2sQomC3myJ1kPYr2ByZ03u0qUJxU-jEr9e-eQjIvcbHxhw=",
+        "owner": 8578118578,
+    },
+    {
+        "session_string": "1BVtsOKwBu1o8qHffux1X7KzQvar5IiZiX_zb4ye16WvuNawcAA7TSNEBrcrUucwHvOtn-k7rxQZQDyqhTBD29X1z0kG-kRabSfAYKOSmFIvueKNF_Gs9CHWUS4kkDIxip4XDdo6yRqh2ikJQWhEvY_AfiO18e-OO3iRpMY486K0vEw9Ee6DOfWRK2IETQcEOLi8ylXKTXUYTCQbzj57RlTQaCh_rJTMvrIn29lvTQ8fdWeXVxA4MZzcaszCTYSzMBUb9_N8AUN9VK-IGBvvrHBT3gHmOXlHAlcHkaYyviZTBQ9ps8qC_wKNvzUYYDqjoDLBMutvxVwlqahFGWKjsLh-M-1PM8_w=",
+        "owner": 8046756430,
+    },
+    {
+        "session_string": "1BVtsOKwBuxHnoBoZ6i73SyGQrvlq9PtFVSMDMrkblXUjq4irK9B8oV9B_avJGrnQdqhLLkA5gCZLGKkRJRp-89RKA-KeHPMHmVHxjDJ7wD1jc9-ttPaxULfqPQzEyN85xieLIeYfAw8ySe6zHj0bfikCSQVJXyOzpJ8U0oQEnJJKK3xvuPmhZ_uxZ8tjV1MZNV71D3ZmyS2LO3JXCCDnD84wxoTGwyVG6Xknqb9e8KMuKBeDp5Bq4OFcfzn5rINFv5xxPLD1YrUohniLROQlqIVI-nkUB0cqg3i3ASN5KnlSEFJlE-hfhIN6i5CqibZXqyusJwxzzWegivfsTGpgz1dQBMhVS58=",
+        "owner": 8398085900,
+    },
+    {
+        "session_string": "1BVtsOKwBu2V2HHQAUzMz7DoKasst9YFszDXPU1apP3vhNB1fgczb5REJ3PmRu4EJBIu4btJ4AOWujnGuAV83W96UZbb3cofp_divLwhuMjUrg3zOXk4G4h3JWcJ1AaZKzYkp7gev45BsrtCQI-SG-pyquh6NoyxRis9GjdjqoylYohuhFyK8M9c93In5x94BBsRRllEKTHSxZ6zuX3gsERMuuCHbgfs8nVIxKDM6iKIUqKVMiWz4JPvCo9Xc9Q9AJCrUam6JgNt0CY3su0riu49EmmhgjSrhzkUCUkPAR-5B25F1HQxFGeVZswo57HhNDQ-xNlYsOzNVQHiO3iSjpfc1up7S7Tk=",
+        "owner": 6863593350,
+    },
+    {
+        "session_string": "1BVtsOKwBu2QYiC82xSR879cWAPNT3EXmPLL3E_VjKEpTtBhEKZ3kuuhmm3T7dlMUX7sniztuddoSXHK3QyXFeSuYRMmbc3uOURjTySArK18pe-cjuEqZXeAlwfkPjY77weNNh8bXknj9wKPbpIKy4NmiX0CYWXLr_p0-awVCAxPziWoiqP5P4RBG3G1n0QO7q_pe-H3-yTud9UOnJqjaI_adug_36iTFRD6f6SdoUrZQsxp3-xe1lerzBBLhvA2I9DlR4Gs7X9tUD457p2dt6-yN1a044sMe29gSZWIaeaqW5BVBRYG4FQCD2ayAjya8W7dZgcsAT0iq4xPvaHroidcQc_E5C9s=",
+        "owner": 8693011323,
+    },
+    {
+        "session_string": "1BVtsOKwBu6-dBY6O_xXRQGQpLzVWOAxFvHOWmz2xq_LicIeVIz6zTUvV9NyAJOalsNJuWdlvCh5WA0d0pB4o_Ggmd3mdmMLHn0u106JRkfGtxb1DbBfsAdtYJOW5cgvzJyQARE3GXHNeCLLefZmJHPSEErwVPVUz7yON4zAqMdkDazRR4MJd3iqJ50TdJZa8fi9BAuhg3QETHsNuul7gThgw5NiEirh4L9Wd0iIDJZzuXd3sMwoiMOQVSMg5333KQOCw-91peIjnaiapHO2RASxr_7qDC-_IO95rEszXhGk13zIagr8WtF3tiTkJw_8EdVK9CmJ4jpk2tnHxgJeKBqlUNoCdPKs=",
+        "owner": 1295088339,
+    },
+    {
+        "session_string": "1BVtsOKwBuyUwn8yA-FaXuhM7e9-d67kBFN8O7KPnyUCRkEQ7684DnpcaGjKa-qgcsUojFB4ZizEn42rskneskOE0G0-ar-AI9XZvhkrLvTodXa8hdSLS1C-4-i7byn1XNGMpyheDL4ZasGs3UP6fUKVReldjosFm6GOu6oHSTc5bw9tG712vX0LUUb0AwPCn6kX_DXaXGOud-Yy9J07c-l2Lw6yj0U3Mglgx4Tde3M1N-3uNc-ejKyp7EhcuDsqi8vYO_bEh390p2N2tuepK432DpEuI26t7afdQeG8dmI9RM_0LVydWC9wlsQ-Ef65SfeBhWwv7BGsoOit2YZU8LGm0lLBGKPM=",
+        "owner": 6796578153,
+    },
+    {
+        "session_string": "1BVtsOKwBuzM9eHwZhQP8F1j3vVpMr8EssyirEDWXWhr_cA72E63GEjvR_ZdpUYthHBhZSclprBqJCcQHpNSA53Y5227bUWN6X1hDufaZbjYL9yo-e_ANwZSyDXRWvMgXxxzLeS0eWVaBjC2Hot4Yi1tCygNgpiHCti31k-2cCibn7O6_Wxskf_kUoM-OGuVY02PFAqyLQbO7qQWp1P-mZGcGtN4AJjSPbJ8GucQCj6dgaO9dZGTP3pMub6HznasPW1LRxjSpgh7FKQQLYm1Rc1sr1SiFVi1DR9bthrIjwWvmCK7Sq3FocUcrzVfKTLWC1P-bl0r9mKcVVf2LkxrjA6hZdw2mv4M=",
+        "owner": 7660477649,
+    },
+    {
+        "session_string": "1BVtsOKwBu4MbFroeEX9s-7WMk00B9K8JezTrnYmorxlsg2fqYu65AX0Mo0lAg761yt7hIHbg7CoqGku5eGirvrajttVE1xvBbSKIYNY-9jXkqGC5sJb_LjhsDz0R4UMR9QSlHse7L6ySIL8o4uDFE7QGkjUv6GJZvyxvKvTQrDyZzofcdW6EoFIZb8ws4QB4i4COa-p4XVtV7ySUQwGpRBnkaYwQWyLpzppmYW6wBXQog4YiOmD6lKbzVPL1VYm6f9CMnGD8j9z8IVQmaUdkkQVyAnoomop3QsjeilzCo7WFOawiNlv8tor6FCEzLNjS1AA3MMsMRi8mzIN6f9CbbUdFUB2eM5k=",
+        "owner": 7909492181,
+    },
+    {
+        "session_string": "1BVtsOKwBu5fkMebpvyOlk55qDnhPJdHWKHIkstggfchDhjrxrXGISvftZR3xayhFEsCJHP-iYehQjaEyifcf1-UHQdh6a_V_1-b3f4dnzzAaniuW-ESFJlQC7lThdmUsDry6glPsazv0IDj3YaSsNlSeYqSgrkTpTiFSdaf_IjhZZMuGY8qMd9bhZnbHXScPuEGJ0JgyNrG8lOdb90Uoj3i6VXiSizJ8jwOXEeB9ZXQA9KmzuzooOFpZVt9K0JUeSrBojQoq6g5zoTjvPatRsiPn9bxWHNOfgZhRXFUtoUX8bxMODbTc4vF8C73mxncFxfJINtQ_qf6dUDqiZTd35D3-ac2kkkI=",
+        "owner": 7001536041,
+    },
+    {
+        "session_string": "1BVtsOKwBu5YcK56RWZY9nDCthLGP_f4YrF9Qv3RZDfqNTusIXgvWPNHRn9pJywEwcO-QsPwtu_ZT84cvbdpo9K3fEVjkFEDrYFmD_V4RRNymAXTJOfhe4hPYKz6bB_VoFOWPoIBhspUumiP-z5Um9EYO7UeeCVUwa_vgxBIBMDM0NifhVP9BaBakDlw4FKCZD4DYwISBf_HrOo_DzXxhFW6wt05LpGjyHoOQBh9o7U1nR_Dx1LyZeFCWsZZfq7w472uuqQYHRT0dGPIkwExh3DozScSLUQ1uSZGiGT_yH7ynlhtcXsiT5vRSsL0YuKys34OjfJ05GC6DXsYAdaKHPTWJ4MeuRGs=",
+        "owner": 8274538293,
     },
 ]
 
