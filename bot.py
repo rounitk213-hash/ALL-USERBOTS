@@ -114,62 +114,6 @@ SESSIONS = [
         "session_string": "1BVtsOKwBuwoSe50UgtFO5UaWdJMc-ZyxBVTbx9gaj7JiLmdH8vYQw9-4yzYeQAUKM3Qlz9tqVzIdLxoaXgjrGbF4a1SIJC9aokAeg1d-Nc2nHRD275qUyQZVx8u-jGwpVdxhpxC0OAksn2D2hwWVdoUsFgp6j7VfKkTWySwmDAIZ8iKoJcjmYNLAFVJFhlQTFXEi7jjdqIKnteeE3VzTFPbQaij1UAkIJzQA7sP-tbFniXA85RjeNk9ySjCIUBx2r2YPWl3b01d1l8MkHJN1kHmL5R4qGIlG57bop40tZ7AlTAFTMEnj7q1LJf1BzXreqFVisG4iw4wptcxEWTOpLa7NScw9Vzk=",
         "owner": 8543997097,
     },
-    {
-        "session_string": "1BVtsOKwBu7YyxS3L59iDEEVTm1M_Fq6gZ2yvHtOz18y6Hz7UqaZBI8sIjTi6SIXxe0l0qUufqL7Z0ZHfQo6nP5rZawSTUCsBJhgYCT0AnSvTlOR2COWDSZS_8_IV21Mat6sd0Ul77EfhM80iq9JXrrMUE1GYAEY3YPWxM2ezRNyVL8bY4eTX64wS1eZ6ufJKS8OL1fJN-1BLf1esF7oTLHxhl0evyNcmn3Vz0PH19zPdGOECWkaJIw8Yk7-m-bdCgE6RPN7isqt0t2WLmF-lT3i1Zf0_hBQ41zHIxIjHyy_Tv-R79dw8udPBias9sf4b5gJhASUiZ2cz8-sJi3r-V1m6AaWLK_s=",
-        "owner": 7639474127,
-    },
-    {
-        "session_string": "1BVtsOKwBu4-GYDW9KEXy6AjDmT2QyeWbLCr00S4mPo–PVp1mYsPd2V3oC5_n-Vh5WWKqchTA6607Kj7vwYE3ItwQMbrZa_bPBz62jt_c_NlMdZaUFvmSBYgQ9pKsJG13tF4-JrNssMQf61-A9w8ZO1nwDKYc_YJbdDK1QibpA4K0nAk5KMl9-Hy1kQjNvLznRsBhep6EzImo7-GOIb9SRcGOOkg4IPrPV809b1lPHf6nbr5JoQRCSeq5yD0NwA-TUHBjJiKy50VtE894F_0_EhMiaREpsoz-p1X5KDNiwamaYv187HCsStuGDVxGwbjwFZX91D7bAJWt123-IXqfrs_eohjtt0=",
-        "owner": 8051801339,
-    },
-    {
-        "session_string": "1BVtsOKwBu50lrs61e8QZ50HuqfxriseZwOaSiTuv6mf1OzZG0rn7qIsZHLTi5o5OeMCHjNTzqAaWCVMQtnSz_L5q6E1W92WsNZf9CLbtcpS-8pdmgkIaK1yZP1K3RB2t1A1Ri_w6kV2OHgNvf8LfCXipSzEt6C_iaZ_W8ubPNogbGeqKBud6tNnr9eutK7KhKD0-wz6Z8_6p9Akm_WFANiiKsN3Or73BUyZ6xXaFSpYjQYlPrjLxwB0nmmV6WNODBC9NrG2FDuDeDYNuvRU2k4_ODD4y8OWijglQBnzAvjsAGD77Hfp-AMvNpcUWiM7CbWiEgLMyApD2tLRJcrEAJFjkk6lulcw=",
-        "owner": 8209987722,
-    },
-    {
-        "session_string": "1BVtsOKwBu3crZcrWXNrZTTobSJ5wjihPaH2EiMIJXLHonyoM1fpEC08gR8YYF9wqjPewm4vHWRjLSS8CzV8LkbVuQtSwfESbYZbtfFppDEUk9RFbnl3xKOxpXCn6BlFTu8roNwA-WGpxBNuRwE8kLPQxcfOWKmVF235193sAX0QlEnKmYFLG5yVAMZyUgiBUPKp0uCs8Q4N2ObZ9cL_4YqPwnfz7roYz4juUME4CXpr37kHrcWL1GyElDHw_yM3Ezef-qfKFopGMnOb6qi5pbx8qbP_PMeoQZ8Bc535PKveIWsJqp2sQomC3myJ1kPYr2ByZ03u0qUJxU-jEr9e-eQjIvcbHxhw=",
-        "owner": 8578118578,
-    },
-    {
-        "session_string": "1BVtsOKwBu1o8qHffux1X7KzQvar5IiZiX_zb4ye16WvuNawcAA7TSNEBrcrUucwHvOtn-k7rxQZQDyqhTBD29X1z0kG-kRabSfAYKOSmFIvueKNF_Gs9CHWUS4kkDIxip4XDdo6yRqh2ikJQWhEvY_AfiO18e-OO3iRpMY486K0vEw9Ee6DOfWRK2IETQcEOLi8ylXKTXUYTCQbzj57RlTQaCh_rJTMvrIn29lvTQ8fdWeXVxA4MZzcaszCTYSzMBUb9_N8AUN9VK-IGBvvrHBT3gHmOXlHAlcHkaYyviZTBQ9ps8qC_wKNvzUYYDqjoDLBMutvxVwlqahFGWKjsLh-M-1PM8_w=",
-        "owner": 8046756430,
-    },
-    {
-        "session_string": "1BVtsOKwBuxHnoBoZ6i73SyGQrvlq9PtFVSMDMrkblXUjq4irK9B8oV9B_avJGrnQdqhLLkA5gCZLGKkRJRp-89RKA-KeHPMHmVHxjDJ7wD1jc9-ttPaxULfqPQzEyN85xieLIeYfAw8ySe6zHj0bfikCSQVJXyOzpJ8U0oQEnJJKK3xvuPmhZ_uxZ8tjV1MZNV71D3ZmyS2LO3JXCCDnD84wxoTGwyVG6Xknqb9e8KMuKBeDp5Bq4OFcfzn5rINFv5xxPLD1YrUohniLROQlqIVI-nkUB0cqg3i3ASN5KnlSEFJlE-hfhIN6i5CqibZXqyusJwxzzWegivfsTGpgz1dQBMhVS58=",
-        "owner": 8398085900,
-    },
-    {
-        "session_string": "1BVtsOKwBu2V2HHQAUzMz7DoKasst9YFszDXPU1apP3vhNB1fgczb5REJ3PmRu4EJBIu4btJ4AOWujnGuAV83W96UZbb3cofp_divLwhuMjUrg3zOXk4G4h3JWcJ1AaZKzYkp7gev45BsrtCQI-SG-pyquh6NoyxRis9GjdjqoylYohuhFyK8M9c93In5x94BBsRRllEKTHSxZ6zuX3gsERMuuCHbgfs8nVIxKDM6iKIUqKVMiWz4JPvCo9Xc9Q9AJCrUam6JgNt0CY3su0riu49EmmhgjSrhzkUCUkPAR-5B25F1HQxFGeVZswo57HhNDQ-xNlYsOzNVQHiO3iSjpfc1up7S7Tk=",
-        "owner": 6863593350,
-    },
-    {
-        "session_string": "1BVtsOKwBu2QYiC82xSR879cWAPNT3EXmPLL3E_VjKEpTtBhEKZ3kuuhmm3T7dlMUX7sniztuddoSXHK3QyXFeSuYRMmbc3uOURjTySArK18pe-cjuEqZXeAlwfkPjY77weNNh8bXknj9wKPbpIKy4NmiX0CYWXLr_p0-awVCAxPziWoiqP5P4RBG3G1n0QO7q_pe-H3-yTud9UOnJqjaI_adug_36iTFRD6f6SdoUrZQsxp3-xe1lerzBBLhvA2I9DlR4Gs7X9tUD457p2dt6-yN1a044sMe29gSZWIaeaqW5BVBRYG4FQCD2ayAjya8W7dZgcsAT0iq4xPvaHroidcQc_E5C9s=",
-        "owner": 8693011323,
-    },
-    {
-        "session_string": "1BVtsOKwBu6-dBY6O_xXRQGQpLzVWOAxFvHOWmz2xq_LicIeVIz6zTUvV9NyAJOalsNJuWdlvCh5WA0d0pB4o_Ggmd3mdmMLHn0u106JRkfGtxb1DbBfsAdtYJOW5cgvzJyQARE3GXHNeCLLefZmJHPSEErwVPVUz7yON4zAqMdkDazRR4MJd3iqJ50TdJZa8fi9BAuhg3QETHsNuul7gThgw5NiEirh4L9Wd0iIDJZzuXd3sMwoiMOQVSMg5333KQOCw-91peIjnaiapHO2RASxr_7qDC-_IO95rEszXhGk13zIagr8WtF3tiTkJw_8EdVK9CmJ4jpk2tnHxgJeKBqlUNoCdPKs=",
-        "owner": 1295088339,
-    },
-    {
-        "session_string": "1BVtsOKwBuyUwn8yA-FaXuhM7e9-d67kBFN8O7KPnyUCRkEQ7684DnpcaGjKa-qgcsUojFB4ZizEn42rskneskOE0G0-ar-AI9XZvhkrLvTodXa8hdSLS1C-4-i7byn1XNGMpyheDL4ZasGs3UP6fUKVReldjosFm6GOu6oHSTc5bw9tG712vX0LUUb0AwPCn6kX_DXaXGOud-Yy9J07c-l2Lw6yj0U3Mglgx4Tde3M1N-3uNc-ejKyp7EhcuDsqi8vYO_bEh390p2N2tuepK432DpEuI26t7afdQeG8dmI9RM_0LVydWC9wlsQ-Ef65SfeBhWwv7BGsoOit2YZU8LGm0lLBGKPM=",
-        "owner": 6796578153,
-    },
-    {
-        "session_string": "1BVtsOKwBuzM9eHwZhQP8F1j3vVpMr8EssyirEDWXWhr_cA72E63GEjvR_ZdpUYthHBhZSclprBqJCcQHpNSA53Y5227bUWN6X1hDufaZbjYL9yo-e_ANwZSyDXRWvMgXxxzLeS0eWVaBjC2Hot4Yi1tCygNgpiHCti31k-2cCibn7O6_Wxskf_kUoM-OGuVY02PFAqyLQbO7qQWp1P-mZGcGtN4AJjSPbJ8GucQCj6dgaO9dZGTP3pMub6HznasPW1LRxjSpgh7FKQQLYm1Rc1sr1SiFVi1DR9bthrIjwWvmCK7Sq3FocUcrzVfKTLWC1P-bl0r9mKcVVf2LkxrjA6hZdw2mv4M=",
-        "owner": 7660477649,
-    },
-    {
-        "session_string": "1BVtsOKwBu4MbFroeEX9s-7WMk00B9K8JezTrnYmorxlsg2fqYu65AX0Mo0lAg761yt7hIHbg7CoqGku5eGirvrajttVE1xvBbSKIYNY-9jXkqGC5sJb_LjhsDz0R4UMR9QSlHse7L6ySIL8o4uDFE7QGkjUv6GJZvyxvKvTQrDyZzofcdW6EoFIZb8ws4QB4i4COa-p4XVtV7ySUQwGpRBnkaYwQWyLpzppmYW6wBXQog4YiOmD6lKbzVPL1VYm6f9CMnGD8j9z8IVQmaUdkkQVyAnoomop3QsjeilzCo7WFOawiNlv8tor6FCEzLNjS1AA3MMsMRi8mzIN6f9CbbUdFUB2eM5k=",
-        "owner": 7909492181,
-    },
-    {
-        "session_string": "1BVtsOKwBu5fkMebpvyOlk55qDnhPJdHWKHIkstggfchDhjrxrXGISvftZR3xayhFEsCJHP-iYehQjaEyifcf1-UHQdh6a_V_1-b3f4dnzzAaniuW-ESFJlQC7lThdmUsDry6glPsazv0IDj3YaSsNlSeYqSgrkTpTiFSdaf_IjhZZMuGY8qMd9bhZnbHXScPuEGJ0JgyNrG8lOdb90Uoj3i6VXiSizJ8jwOXEeB9ZXQA9KmzuzooOFpZVt9K0JUeSrBojQoq6g5zoTjvPatRsiPn9bxWHNOfgZhRXFUtoUX8bxMODbTc4vF8C73mxncFxfJINtQ_qf6dUDqiZTd35D3-ac2kkkI=",
-        "owner": 7001536041,
-    },
-    {
-        "session_string": "1BVtsOKwBu5YcK56RWZY9nDCthLGP_f4YrF9Qv3RZDfqNTusIXgvWPNHRn9pJywEwcO-QsPwtu_ZT84cvbdpo9K3fEVjkFEDrYFmD_V4RRNymAXTJOfhe4hPYKz6bB_VoFOWPoIBhspUumiP-z5Um9EYO7UeeCVUwa_vgxBIBMDM0NifhVP9BaBakDlw4FKCZD4DYwISBf_HrOo_DzXxhFW6wt05LpGjyHoOQBh9o7U1nR_Dx1LyZeFCWsZZfq7w472uuqQYHRT0dGPIkwExh3DozScSLUQ1uSZGiGT_yH7ynlhtcXsiT5vRSsL0YuKys34OjfJ05GC6DXsYAdaKHPTWJ4MeuRGs=",
-        "owner": 8274538293,
-    },
 ]
 
 # ==================== ABUSE LIST ====================
